@@ -1,6 +1,6 @@
 /* Установите ширину боковой панели на 250 пикселей (показать его) */
 function openNav() {
-  document.getElementById("mySidepanel").style.width = "70%";
+  document.getElementById("mySidepanel").style.width = "100%";
   document.getElementById("sidetext").style.color = 'white';
 }
 
